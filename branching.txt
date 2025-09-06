@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-branching 4
-=======
-branching feature12
->>>>>>> feature1
-merge 2
+merge conflict
